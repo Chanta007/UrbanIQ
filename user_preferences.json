@@ -1,0 +1,14 @@
+{
+    "traffic_density": 1.5,
+    "weather_condition": "clear",
+    "vehicle_priorities": {
+        "emergency_vehicle": 1,
+        "electric_vehicle": 2,
+        "public_transport": 3,
+        "school_zone": 4,
+        "normal_vehicle": 5
+    },
+    "map_settings": {
+        "zoom_level": 1.2
+    }
+}
